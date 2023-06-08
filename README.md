@@ -1,3 +1,6 @@
+# I didn't make any changes to the code, this fork is just a placeholder. 
+Make an issue if you want to remind me to make another version
+
 # tModLoader, a Terraria modding API [![Build Status](https://travis-ci.org/tModLoader/tModLoader.svg?branch=master)](https://travis-ci.org/tModLoader/tModLoader) [![Discord](https://img.shields.io/discord/103110554649894912.svg?style=flat-square)](https://tmodloader.net/discord)
 
 tModLoader (TML) is an open-source, community-driven, modification and expansion of the Terraria game that makes it possible to make and play mods. TML expands your Terraria adventures with new content to explore created by the Terraria community! TML allows players to create and play Terraria mods and is designed in such a way so that you can play alone or together with friends, with one mod or with multiple mods: choose to play however you like! It is however required that all your friends also install TML if you want to play together; vanilla users can't play with TML users. Find the instructions below to learn how to install TML.
